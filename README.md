@@ -32,9 +32,5 @@ Sou um desenvolvedor apaixonado por tecnologia e criação de sistemas.
 ## 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <!-- Cartão de Linguagens Mais Usadas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kywy12&layout=compact&theme=tokyonight" />
-  
-  <!-- Cartão de Estatísticas Gerais -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kywy12&show_icons=true&theme=tokyonight&rank_icon=percentile" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=kywy12&theme=tokyonight" />
 </p>
