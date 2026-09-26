@@ -41,5 +41,5 @@ Sou um desenvolvedor apaixonado por tecnologia e criação de sistemas.
 
 <!-- Animação do Pacman -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kywy12/kywy12/output/github-contribution-grid-snake.svg" alt="Pacman animation" />
+  <img src="https://raw.githubusercontent.com/kywy12/kywy12/output/github-contribution-grid-snake-dark.svg" alt="Pacman animation" />
 </p>
