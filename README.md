@@ -32,10 +32,10 @@ Sou um desenvolvedor apaixonado por tecnologia e criação de sistemas.
 ## 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <!-- Cartão 1: Linguagens mais usadas (Versão Estável) -->
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kywy12&layout=compact&theme=tokyonight" />
+  <!-- Cartão de Linguagens (Instância Alternativa Sem Erro) -->
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kywy12&layout=compact&theme=tokyonight" />
   
-  <!-- Cartão 2: Streak Stats (O cartão que já está a funcionar) -->
+  <!-- Cartão Streak (O que já está a funcionar perfeitamente) -->
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=kywy12&theme=tokyonight" />
 </p>
 
