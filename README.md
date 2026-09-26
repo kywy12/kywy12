@@ -41,5 +41,5 @@ Sou um desenvolvedor apaixonado por tecnologia e criação de sistemas.
 
 <!-- Animação do Pacman -->
 <p align="center">
-  <img src="https://github-readme-pacman.vercel.app/api?username=kywy12&theme=tokyonight" alt="Pacman Animation" />
+  <img src="https://raw.githubusercontent.com/kywy12/kywy12/main/github-metrics-pacman.svg" alt="Pacman Animation" />
 </p>
