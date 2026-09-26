@@ -32,14 +32,14 @@ Sou um desenvolvedor apaixonado por tecnologia e criação de sistemas.
 ## 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <!-- Cartão de Estatísticas do GitHub (Rank A+) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kywy12&show_icons=true&theme=tokyonight&rank_icon=percentile&include_all_commits=true" />
+  <!-- Cartão 1: Linguagens mais usadas (Versão Estável) -->
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kywy12&layout=compact&theme=tokyonight" />
   
-  <!-- Cartão de Contribuições Continuadas (Streak) -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kywy12&theme=tokyonight" />
+  <!-- Cartão 2: Streak Stats (O cartão que já está a funcionar) -->
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=kywy12&theme=tokyonight" />
 </p>
 
-<!-- Pacman/Snake Animation (Carrega assim que a Action for executada) -->
+<!-- Animação do Pacman -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kywy12/kywy12/output/github-contribution-grid-snake-dark.svg" alt="Pacman animation" />
+  <img src="https://raw.githubusercontent.com/kywy12/kywy12/output/github-contribution-grid-snake.svg" alt="Pacman animation" />
 </p>
