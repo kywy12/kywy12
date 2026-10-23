@@ -15,9 +15,8 @@ Sou um desenvolvedor apaixonado por tecnologia e criação de sistemas.
 
 ## 🛠️ Tecnologias & Ferramentas
 
-* **Linguagens:** JavaScript, TypeScript, Python, HTML5, CSS3
-* **Frameworks:** React, Node.js, Express, TailwindCSS
-* **Bases de Dados:** PostgreSQL, MongoDB
+* **Linguagens:** C++, Python
+* **Frameworks:** Node.js
 
 ---
 
